@@ -24,7 +24,7 @@ excerpt_link: Read More...
 # MIIT ICP/IP/DOMAIN
 beian:
   enable: true
-  number: 湘ICP备2022007311号
+  number: 湘ICP备2022007311号-1
   url: https://beian.miit.gov.cn/
 
 # Tags
